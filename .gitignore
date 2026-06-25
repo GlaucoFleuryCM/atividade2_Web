@@ -1,0 +1,15 @@
+# dependencias
+back/node_modules
+front/node_modules
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+
+# env (caso tenha variaveis de ambiente)
+.env
+.env.local
+
+# sistema
+.DS_Store
+Thumbs.db
